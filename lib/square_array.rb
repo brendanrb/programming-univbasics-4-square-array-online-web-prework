@@ -1,3 +1,7 @@
 numbers = [1,2,3]
 
-numbers[i] ** 2
+def square_array)(numbers)
+  result = numbers[i] ** 2
+end
+result
+  
